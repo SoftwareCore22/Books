@@ -7,10 +7,6 @@ Arduino Uno R3 - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi
 Mastering the FreeRTOS Real Time Kernel - Richard Barry
 
-DIGITAL ELECTRONICS -
-Verilog HDL - Samir Palnitkar
-Fundamentals of Digital Circuits - A. Anand Kumar
-
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
 Network Analysis and Synthesis - Ravish R. Singh
@@ -20,28 +16,15 @@ Electronic Circuit Analysis - B. Visvesvara Rao
 Microelectronics Circuit Analysis and Design - Donald A. Neamen
 Op-Amps and Linear Integrated Circuits - Ramakant A. Gayakwad
 Operational Amplifiers with Advanced Applications - K.C. Selvam
-Analog Filter Design - M.E. Van Valkenburg
-
-CONTROL SYSTEMS -
-Control Systems Engineering - I.J. Nagrath
-Control Systems Principles and Design
-
-ELECTROMAGNETICS -
-Elements of Electromagnetics - Matthew N.O. Sadiku
-Microwave Engineering - Annapurna Das
-RF Microelectronics - Behzad Razavi
-Antenna and Wave Propagation - A.K. Gautam
+Fundamentals of Digital Circuits - A. Anand Kumar
 
 DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
-Digital Signal Processing - S. Salivahanan
-
-COMMUNICATION -
-Electronic Communications Systems - Wayne Tomasi
-Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
-Communication Systems - P. Ramakrishna Rao
+Linear Systems and Signals - B.P. Lathi
+Essentials of Digital Signal Processing - B.P. Lathi
+Applied Digital Processing - Vinay K. Ingle
 
 MATHEMATICS -
 Fundamentals of Mathematics - Sanjay Mishra
@@ -52,7 +35,6 @@ Trignometry
 Functions and Graphs
 Differential Calculus
 Integral Calculus
-Calculus - Joel Hass
 
 PHYSICS -
 Understanding Physics - D.C. Pandey
